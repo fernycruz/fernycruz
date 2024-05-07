@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/fernanda-cruz-tapia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="fernanda.cruz.arq@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/#all/18f5480aefc154c7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
