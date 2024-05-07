@@ -1,25 +1,51 @@
-## Hello World! I'm Fernanda 🙋🏽‍♀️
+<h1 align="center">Hello World! I'm Fernanda 🙋🏽‍♀️</h1>
 
-## Brief resume 🤓
+###
 
-  I specialize in developing efficient algorithms, implementing data structures, and creating scalable solutions using Python libraries such as Pandas and NumPy. My experience includes integrated third-party APIs to automate data retrieval and     streamline internal processes, conducting data cleaning and preprocessing for accuracy and consistency, and utilizing NumPy for efficient numeric computations and array manipulation. I excel in problem-solving, attention to detail, and have a passionate drive for learning new technologies, thriving in dynamic team environments where creativity and technical excellence are valued.
+<h3 align="left">What can I do? 🧐</h3>
 
-## What can I do? 🧐
-  I've taken a deliberate step towards blending my appreciation for aesthetics with the dynamic realm of technology through my transition into software development. This journey represents my commitment to harmonizing creativity with innovation, leveraging my skills in design and my fascination with technological advancements to craft impactful solutions and contribute meaningfully to the evolving digital landscape.
-<div>
-  <br />
+###
+
+<p align="left">I've taken a deliberate step towards blending my appreciation for aesthetics with the dynamic realm of technology through my transition into software development. This journey represents my commitment to harmonizing creativity with innovation, leveraging my skills in design and my fascination with technological advancements to craft impactful solutions and contribute meaningfully to the evolving digital landscape.</p>
+
+###
+
+<h3 align="left">Some technologies I use 🤓</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<!--
-**fernycruz/fernycruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Let´s connect! 🎯</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+</div>
+
+###
